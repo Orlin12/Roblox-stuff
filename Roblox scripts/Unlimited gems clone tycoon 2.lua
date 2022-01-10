@@ -1,0 +1,1 @@
+game.Workspace.Events.TycoonItems.PurchaseGemItem:InvokeServer(-9000000000000, "G12")
